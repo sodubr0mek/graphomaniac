@@ -96,7 +96,7 @@ print(flist)
 print(tie)
 
 run2 = 1
-#Dodać prowadzdenie drogi przez szukanie ścieżek do coraz wcześniejszych odnóg
+#Dodać prowadzdenie drogi przez szukanie ścieżek do coraz wcześniejszych odnóg a
 
 
 
