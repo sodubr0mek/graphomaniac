@@ -1,1 +1,1 @@
-Work still in progress, this program does not work as of right now
+Not tested for cases other than the given example.
